@@ -14,11 +14,14 @@ This is TheNoTheoryGuide to Python.
 The guide is built using jupyter notebook. Thus, one can just clone the repo and start practising right away.
 The guide starts from the very basics of Python and moves into the advanced topics.
 
-# Things to Keep in mind while using this guide
+
+<h2 align="center">Things to Keep in mind while using this guide</h2>
+
 Use this guide along side a book if you are not already familiar with concepts of Python or basics of Programming.
 If you are revising the concepts of Python, then you can just clone the repo and get started with it in no second.
 
-# How to use this guide
+<h2 align="center"> How to use this guide </h2>
+
 1) Clone the repo
 ```
 git clone https://github.com/iArunava/Python-TheNoTheoryGuide.git
@@ -27,8 +30,11 @@ git clone https://github.com/iArunava/Python-TheNoTheoryGuide.git
 ```
 jupyter notebook
 ```
-
 3) Navigate to the notebook you like to practise :)
 
-# LICENSE
+![screenshot](https://user-images.githubusercontent.com/26242097/35472641-0cffbe04-0399-11e8-8213-4a3d0b402e51.png)
+
+
+<h2 align="center"> LICENSE </h2>
+
 The project is distributed under the MIT License.
