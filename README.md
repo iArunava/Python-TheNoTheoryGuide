@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<h1 align="center"> Python<br/>TheNoTheoryGuide </h1>
-
 [![Python](https://img.shields.io/badge/PYTHON-3.6-blue.svg?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/status-maintained-brightgreen.svg?style=for-the-badge)]()
 [![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)]()
+
+<h1 align="center"> Python<br/>TheNoTheoryGuide </h1>
 
 This is TheNoTheoryGuide to Python.
 The guide is built using jupyter notebook. Thus, one can just clone the repo and start practising right away.
