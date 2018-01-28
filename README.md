@@ -34,6 +34,11 @@ jupyter notebook
 
 ![screenshot](https://user-images.githubusercontent.com/26242097/35472641-0cffbe04-0399-11e8-8213-4a3d0b402e51.png)
 
+<h2 align="center"> Preview </h2>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python](https://user-images.githubusercontent.com/26242097/35479161-59b187be-0416-11e8-85c1-345f5cc4c425.gif)
+
+
 
 <h2 align="center"> LICENSE </h2>
 
