@@ -61,6 +61,12 @@ The guide starts from the very basics of Python and moves into the advanced topi
  </p>
 
 
+<h2 align="center"> Preview </h2>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python](https://user-images.githubusercontent.com/26242097/35479161-59b187be-0416-11e8-85c1-345f5cc4c425.gif)
+
+
+
 <h2 align="center">Things to Keep in mind while using this guide</h2>
 
 Use this guide along side a book if you are not already familiar with concepts of Python or basics of Programming.
@@ -79,10 +85,6 @@ jupyter notebook
 3) Navigate to the notebook you like to practise :)
 
 ![screenshot](https://user-images.githubusercontent.com/26242097/35472641-0cffbe04-0399-11e8-8213-4a3d0b402e51.png)
-
-<h2 align="center"> Preview </h2>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python](https://user-images.githubusercontent.com/26242097/35479161-59b187be-0416-11e8-85c1-345f5cc4c425.gif)
 
 
 <h2 align="center"> LICENSE </h2>
