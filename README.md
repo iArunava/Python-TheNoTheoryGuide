@@ -17,7 +17,7 @@ The guide starts from the very basics of Python and moves into the advanced topi
 <h2 align="center"> Contents </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a align="center" href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/001_basics.ipynb" target="_blank"> Basics </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a align="center" href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/001_basics.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basics </a>
  </p>
 
 <p align="center">
@@ -25,19 +25,19 @@ The guide starts from the very basics of Python and moves into the advanced topi
  </p>
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/003_loops.ipynb" target="_blank"> Loops </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/003_loops.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loops </a>
  </p>
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/004_strings.ipynb" target="_blank"> Strings </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/004_strings.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strings </a>
  </p>
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/005_lists.ipynb" target="_blank"> Lists </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/005_lists.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lists </a>
  </p>
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/006_tuples.ipynb" target="_blank"> Tuples </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/006_tuples.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuples </a>
  </p>
  
 <p align="center">
@@ -45,19 +45,19 @@ The guide starts from the very basics of Python and moves into the advanced topi
  </p>
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/008_functions.ipynb" target="_blank"> Functions </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/008_functions.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;Functions </a>
  </p>
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/009_classes.ipynb" target="_blank"> Classes </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/009_classes.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Classes </a>
  </p>
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/010_files.ipynb" target="_blank"> Files </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/010_files.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Files </a>
  </p>
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/011_exceptions.ipynb" target="_blank"> Exceptions </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/011_exceptions.ipynb" target="_blank"> &nbsp;&nbsp;Exceptions </a>
  </p>
 
 
@@ -89,4 +89,4 @@ jupyter notebook
 
 <h2 align="center"> LICENSE </h2>
 
-The project is distributed under the MIT License.
+<p align="center"> The project is distributed under the MIT License. </p>
