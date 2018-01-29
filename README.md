@@ -17,11 +17,11 @@ The guide starts from the very basics of Python and moves into the advanced topi
 <h2 align="center"> Contents </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a align="center" href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/001_basics.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basics </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a align="center" href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/001_basics.ipynb" target="_blank"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basics </a>
  </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/002_conditionals.ipynb" target="_blank"> Conditionals </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/002_conditionals.ipynb" target="_blank"> &nbsp;&nbsp;Conditionals </a>
  </p>
  
 <p align="center">
@@ -41,7 +41,7 @@ The guide starts from the very basics of Python and moves into the advanced topi
  </p>
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/007_dictionaries.ipynb" target="_blank"> Dictionaries </a>
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" align="center" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/007_dictionaries.ipynb" target="_blank"> &nbsp;&nbsp;Dictionaries </a>
  </p>
  
 <p align="center">
