@@ -72,7 +72,25 @@ Use this guide along side a book if you are not already familiar with concepts o
 
 If you are revising the concepts of Python, then you can just clone the repo and get started with it in no second.
 
+## Dependencies
 
+1) [Jupyter](http://jupyter.org/index.html)
+
+      ### How to install jupyter
+  
+      If you have Python3 installed
+
+      ```
+      python3 -m pip install --upgrade pip
+      python3 -m pip install jupyter
+      ```
+
+      If you have Python2 installed
+
+      ```
+      python -m pip install --upgrade pip
+      python -m pip install jupyter
+      ```
 
 ## How to use this guide
 
