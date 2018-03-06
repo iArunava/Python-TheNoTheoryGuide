@@ -57,6 +57,8 @@ The guide starts from the very basics of Python and moves into the advanced topi
 <img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/011_exceptions.ipynb" target="_blank"> Exceptions </a> | <a href="https://www.github.com/iArunava/Python-TheNoTheoryGuide/blob/master/011_exceptions.ipynb"> [View on Github] </a>
 
 
+<img src="https://user-images.githubusercontent.com/26242097/35495298-3f3f246a-04e6-11e8-942c-ddd78dafbabd.png" height="32" width="32"> <a href="https://nbviewer.jupyter.org/github/iArunava/Python-TheNoTheoryGuide/blob/master/012_importing_datasets.ipynb" target="_blank"> Exceptions </a> | <a href="https://www.github.com/iArunava/Python-TheNoTheoryGuide/blob/master/012_importing_datasets.ipynb"> [View on Github] </a>
+
 
 <h2 align="center"> Preview </h2>
 
