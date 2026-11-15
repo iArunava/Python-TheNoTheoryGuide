@@ -12,6 +12,8 @@
 
 # Python - TheNoTheoryGuide
 
+bash grab.sh  # fetch runtime deps
+
 
 This is TheNoTheoryGuide to Python.
 
